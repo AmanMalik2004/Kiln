@@ -1,4 +1,4 @@
-# MiniC Compiler(ctrl+shift+v to format this file)
+# Kiln – MiniC-to-x86 Compiler Built From Scratch
 
 A compiler built from scratch in C++ that compiles a custom C-like language (MiniC)
 down to real x86 assembly language, which is then assembled and linked into a
